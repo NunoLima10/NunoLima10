@@ -16,7 +16,7 @@
 <div>
   <h2  >Connect with me</h2>
 <a href="https://instagram.com/nunolima10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nunolima10" height="35" width="45" /></a>
-<a href="https://www.youtube.com/channel/UC6MunNhiwCJGxdcw15WISEQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="play craft" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/NunoLima10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="play craft" height="40" width="50" /></a>
  </div>
  
  
