@@ -1,5 +1,7 @@
 ### Hi there I'm Nuno👋
 
+Movendo eletrões com código de Cabo Verde para o mundo!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nunolima10&label=Profile%20views&color=0eb421&style=flat" alt="nunolima10" /> </p>
 
 
@@ -11,8 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,lua,react,express,cloudflarer,firebase,netlify&perline=3)](https://skillicons.dev)
 
 
 <div>
