@@ -16,27 +16,3 @@ Movendo eletrões com código de Cabo Verde para o mundo!
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,lua,react,express,cloudflarer,firebase,netlify&perline=3)](https://skillicons.dev)
 
 
-<div>
-  <h2  >Connect with me</h2>
-<a href="https://instagram.com/nunolima10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nunolima10" height="35" width="45" /></a>
-<a href="https://www.youtube.com/c/NunoLima10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="play craft" height="40" width="50" /></a>
-<a href="https://discord.gg/dGpaSYv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="play craft" height="40" width="50" /></a>
-
- </div>
- 
- 
-<!--
-
-**NunoLima10/NunoLima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
