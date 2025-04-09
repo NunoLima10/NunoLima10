@@ -13,6 +13,6 @@ Movendo eletrões com código de Cabo Verde para o mundo!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,lua,react,express,cloudflarer,firebase,netlify&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,lua,react,express,cloudflare,firebase,netlify&perline=3)](https://skillicons.dev)
 
 
